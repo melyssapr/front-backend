@@ -13,7 +13,7 @@ const persons = [
 
     {
         name: "Melyssa Pereira",
-        age: 17,
+        age: 16,
         cpf: 45612378920
     }
 ]
